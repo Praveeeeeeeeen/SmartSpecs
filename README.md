@@ -94,13 +94,13 @@ Speech processing is handled by the smartphone instead of ESP32 to reduce comput
 ![Code](screenshots/code.png)
 
 ### Hardware Setup
-![Hardware](screenshots/hardware.png)
+![Hardware](screenshots/hardware.jpeg)
 
 ### Web Interface
-![Web](screenshots/web.png)
+![Web](screenshots/web.jpeg)
 
 ### Detection
-![Detection](screenshots/Detection.jpg)
+![Detection](screenshots/Detection.png)
 
 
 ---
