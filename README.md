@@ -90,6 +90,17 @@ Speech processing is handled by the smartphone instead of ESP32 to reduce comput
 ---
 
 ## 📷 Screenshots
+### Arduino Code
+![Code](screenshots/code.png)
+
+### Hardware Setup
+![Hardware](screenshots/hardware.png)
+
+### Web Interface
+![Web](screenshots/web.png)
+
+### Detection
+![Detection](screenshots/Detection.jpg)
 
 
 ---
